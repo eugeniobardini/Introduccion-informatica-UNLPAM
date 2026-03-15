@@ -1,2 +1,2 @@
-# Introducci-n-inform-tica-UNLPAM
+# Introduccion-informatica-UNLPAM
 Repositorio de prueba para introducción a la informática
